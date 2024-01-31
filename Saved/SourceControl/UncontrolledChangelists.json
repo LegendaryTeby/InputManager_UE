@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/TEMP_TOGITHUB/Unreal/Project_InputManager/Content/Levels/MainMap.umap",
+				"D:/TEMP_TOGITHUB/Unreal/Project_InputManager/Content/Blueprints/DefaultGameInput.uasset",
+				"D:/TEMP_TOGITHUB/Unreal/Project_InputManager/Content/Blueprints/BP_InputDataTable.uasset",
+				"D:/TEMP_TOGITHUB/Unreal/Project_InputManager/Content/Blueprints/BP_InputManager.uasset",
+				"D:/TEMP_TOGITHUB/Unreal/Project_InputManager/Content/Blueprints/BP_GameMode.uasset"
+			]
+		}
+	]
+}
